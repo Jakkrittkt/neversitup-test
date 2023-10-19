@@ -16,11 +16,15 @@ Install candidate-test-neversitup with npm
 ```bash
   npm i candidate-test-neversitup
 ```
+or
+```bash
+  yarn add candidate-test-neversitup
+```
 
 ## How to use
 
 ```javascript
-const {permutations, findTheOddInt, countSmileys} = require('test-candidate-neversitup');
+const {permutations, findTheOddInt, countSmileys} = require('candidate-test-neversitup');
 
 // for function permutations
 const input = "abc"
