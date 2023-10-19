@@ -1,6 +1,6 @@
 {
   "name": "candidate-test-neversitup",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Neversitup candidate test",
   "main": "index.js",
   "scripts": {

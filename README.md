@@ -43,8 +43,12 @@ const result = countSmileys(input)
 ```
 ## Running Tests
 
-To run tests, run the following command
 
+Install dependency package first with command
+```bash
+yarn install
+```
+To run tests, run the following command
 ```bash
 npm run test
 ```
