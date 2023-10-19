@@ -11,10 +11,10 @@ This package has the functions
 
 ## Installation
 
-Install neversitup-test with npm
+Install candidate-test-neversitup with npm
 
 ```bash
-  npm i test-candidate-neversitup
+  npm i candidate-test-neversitup
 ```
 
 ## How to use
